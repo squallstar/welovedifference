@@ -1,0 +1,32 @@
+/* TEAM */
+	
+	Many people, computers and a guinea pig named Zloty helped us with this project.
+	
+
+	UI developer, original idea & Illustrations: Michela Tannoia
+	Twitter: @mintsugar
+	From: Verona, IT
+	Www: http://www.mint-sugar.com
+
+	Web developer: Nicholas Valbusa
+	Twitter: @squallstar
+	From: Verona, IT
+	Www: http://www.squallstar.it
+
+/* THANKS */
+
+	Thanks to our first week submitters, they believed in this project before seeing it!!
+	Sarah (YLSF), Matteo (YLSF), Mette, Pashandy, Marta, Marilyn, JD Hankock, Giuliano,
+	VerdeAnita, Filippo, Federico e Andrea, Michele, Beatrice, Eliana, Fabio, Monica_m, Giacomo. 
+		
+
+/* SITE */
+
+	Last update:2011/06/20
+	Language:English / Italiano
+	Doctype:XHTML1.1
+	IDE:Espresso, Photoshop, Illustrator
+	
+	What lies behind the website? We Love Difference runs on Amazon S3 and was built using CodeIgniter,
+	the best PHP framework ever. We Love Difference uses Squallstar Fingerprint technology to track
+	users activities and blame spammers (ahah).
