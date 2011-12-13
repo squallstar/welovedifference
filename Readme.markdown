@@ -8,8 +8,8 @@ The project had been developed in PHP5 with CodeIgniter framework and is release
 
 We decided to suspend the project due to lack of users during august 2011.
 
-Web developer: Nicholas Valbusa - @Squallstar
-Graphic designer: Michela Tannoia - @Mintsugar
+* Web developer: Nicholas Valbusa - @Squallstar
+* Graphic designer: Michela Tannoia - @Mintsugar
 
 --------------
 How to install
