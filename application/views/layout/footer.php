@@ -11,7 +11,7 @@
 <?php if (!isset($admin) && ENVIRONMENT != 'development') { ?><script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-23635657-1']);
+  _gaq.push(['_setAccount', 'UA-XXXXXXXX-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
