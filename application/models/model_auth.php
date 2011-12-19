@@ -40,7 +40,7 @@ Class model_auth extends CI_Model {
 	
 	public function login($username, $password) {
 		//Currently is static!
-		if ($this->_admin_user == 'admin' && $this->_admin_pwd == 'password') {
+		if ($this->_admin_user == $username && $this->_admin_pwd == $password) {
 			$this->session->set_userdata('logged_in', 'admin');
 			return true;
 		}
