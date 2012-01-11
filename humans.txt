@@ -22,8 +22,8 @@
 
 /* SITE */
 
-	Last update:2011/06/20
-	Language:English / Italiano
+	Last update:11 Jan 2012
+	Language:English / Italian
 	Doctype:XHTML1.1
 	IDE:Espresso, Photoshop, Illustrator
 	
